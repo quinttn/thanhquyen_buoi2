@@ -1,0 +1,15 @@
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi2\Buoi2\Nhan2SoNguyenLon\obj\Debug\net8.0\Nhan2SoNguyenLon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi2\Buoi2\Nhan2SoNguyenLon\obj\Debug\net8.0\Nhan2SoNguyenLon.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi2\Buoi2\Nhan2SoNguyenLon\obj\Debug\net8.0\Nhan2SoNguyenLon.AssemblyInfo.cs
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi2\Buoi2\Nhan2SoNguyenLon\obj\Debug\net8.0\Nhan2SoNguyenLon.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi2\Buoi2\Nhan2SoNguyenLon\obj\Debug\net8.0\Nhan2SoNguyenLon.sourcelink.json
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi2\Buoi2\Nhan2SoNguyenLon\bin\Debug\net8.0\Nhan2SoNguyenLon.exe
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi2\Buoi2\Nhan2SoNguyenLon\bin\Debug\net8.0\Nhan2SoNguyenLon.deps.json
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi2\Buoi2\Nhan2SoNguyenLon\bin\Debug\net8.0\Nhan2SoNguyenLon.runtimeconfig.json
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi2\Buoi2\Nhan2SoNguyenLon\bin\Debug\net8.0\Nhan2SoNguyenLon.dll
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi2\Buoi2\Nhan2SoNguyenLon\bin\Debug\net8.0\Nhan2SoNguyenLon.pdb
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi2\Buoi2\Nhan2SoNguyenLon\obj\Debug\net8.0\Nhan2SoNguyenLon.dll
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi2\Buoi2\Nhan2SoNguyenLon\obj\Debug\net8.0\refint\Nhan2SoNguyenLon.dll
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi2\Buoi2\Nhan2SoNguyenLon\obj\Debug\net8.0\Nhan2SoNguyenLon.pdb
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi2\Buoi2\Nhan2SoNguyenLon\obj\Debug\net8.0\Nhan2SoNguyenLon.genruntimeconfig.cache
+C:\Users\WIN 10\Desktop\QUIN\PTTKTT_Buoi2\Buoi2\Nhan2SoNguyenLon\obj\Debug\net8.0\ref\Nhan2SoNguyenLon.dll

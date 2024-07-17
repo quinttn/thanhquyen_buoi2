@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIN 10\\Desktop\\QUIN\\PTTKTT_Buoi2\\Buoi2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A655E1C0-88FC-43B7-8C14-9C5693245BBA}|Nhan2SoNguyenLon\\Nhan2SoNguyenLon.csproj|C:\\Users\\WIN 10\\Desktop\\QUIN\\PTTKTT_Buoi2\\Buoi2\\nhan2songuyenlon\\nhan2songuyenlon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A655E1C0-88FC-43B7-8C14-9C5693245BBA}|Nhan2SoNguyenLon\\Nhan2SoNguyenLon.csproj|solutionrelative:nhan2songuyenlon\\nhan2songuyenlon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0E8D8C-EB6C-474A-BCF6-D2350962D3FE}|MergeSort\\MergeSort.csproj|C:\\Users\\WIN 10\\Desktop\\QUIN\\PTTKTT_Buoi2\\Buoi2\\mergesort\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0E8D8C-EB6C-474A-BCF6-D2350962D3FE}|MergeSort\\MergeSort.csproj|solutionrelative:mergesort\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CF02AC-2DAB-454E-A917-82B8312610D5}|TimKiemNhiPhan\\TimKiemNhiPhan.csproj|c:\\users\\win 10\\desktop\\quin\\pttktt_buoi2\\buoi2\\timkiemnhiphan\\timkiemnhiphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CF02AC-2DAB-454E-A917-82B8312610D5}|TimKiemNhiPhan\\TimKiemNhiPhan.csproj|solutionrelative:timkiemnhiphan\\timkiemnhiphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Nhan2SoNguyenLon.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\QUIN\\PTTKTT_Buoi2\\Buoi2\\Nhan2SoNguyenLon\\Nhan2SoNguyenLon.cs",
+              "RelativeDocumentMoniker": "Nhan2SoNguyenLon\\Nhan2SoNguyenLon.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\QUIN\\PTTKTT_Buoi2\\Buoi2\\Nhan2SoNguyenLon\\Nhan2SoNguyenLon.cs",
+              "RelativeToolTip": "Nhan2SoNguyenLon\\Nhan2SoNguyenLon.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T10:56:56.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MergeSort.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\QUIN\\PTTKTT_Buoi2\\Buoi2\\MergeSort\\MergeSort.cs",
+              "RelativeDocumentMoniker": "MergeSort\\MergeSort.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\QUIN\\PTTKTT_Buoi2\\Buoi2\\MergeSort\\MergeSort.cs",
+              "RelativeToolTip": "MergeSort\\MergeSort.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIAwwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T10:47:56.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimKiemNhiPhan.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\QUIN\\PTTKTT_Buoi2\\Buoi2\\TimKiemNhiPhan\\TimKiemNhiPhan.cs",
+              "RelativeDocumentMoniker": "TimKiemNhiPhan\\TimKiemNhiPhan.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\QUIN\\PTTKTT_Buoi2\\Buoi2\\TimKiemNhiPhan\\TimKiemNhiPhan.cs",
+              "RelativeToolTip": "TimKiemNhiPhan\\TimKiemNhiPhan.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswCEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T10:28:14.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
